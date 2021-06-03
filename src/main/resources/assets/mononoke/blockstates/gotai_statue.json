@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "mononoke:block/statue/gotai_statue" },
+    "facing=west": { "model": "mononoke:block/statue/gotai_statue", "y": 270 },
+    "facing=south": { "model": "mononoke:block/statue/gotai_statue", "y": 180 },
+    "facing=east": { "model": "mononoke:block/statue/gotai_statue", "y": 90 }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "mononoke:item/hitodama",
+  "textures": {
+    "layer0": "mononoke:item/hitodama/hitodama_arthropod"
+  }
+}

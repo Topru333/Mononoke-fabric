@@ -1,0 +1,12 @@
+{
+  "itemGroup.MononokeTab" : "Mononoke mod",
+  "block.mononoke.gotai_statue" : "Gotai Statue",
+  "block.mononoke.pumpkin_shiryo" : "Shiryo Pumpkin",
+  "item.mononoke.hitodama_ordinary" : "Ordinary Hitodama",
+  "item.mononoke.hitodama_illager" : "Illager Hitodama",
+  "item.mononoke.hitodama_water" : "Water Hitodama",
+  "item.mononoke.hitodama_undead" : "Undead Hitodama",
+  "item.mononoke.hitodama_arthropod" : "Arthropod Hitodama",
+  "enchantment.mononoke.shinigami_enchantment" : "Shinigami's follower",
+  "enchantment.mononoke.shinigami_enchantment.max" : "Apostle of Shinigami"
+}

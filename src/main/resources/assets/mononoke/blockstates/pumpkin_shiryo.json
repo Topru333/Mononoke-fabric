@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "mononoke:block/pumpkin/pumpkin_shiryo" },
+    "facing=west": { "model": "mononoke:block/pumpkin/pumpkin_shiryo", "y": 270 },
+    "facing=south": { "model": "mononoke:block/pumpkin/pumpkin_shiryo", "y": 180 },
+    "facing=east": { "model": "mononoke:block/pumpkin/pumpkin_shiryo", "y": 90 }
+  }
+}
