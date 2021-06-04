@@ -19,10 +19,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.toru.mononoke.ModPoint"
+      "com.mononoke.ModPoint"
     ],
     "client": [
-      "com.toru.mononoke.MononokeClient"
+      "com.mononoke.MononokeClient"
     ]
   },
   "mixins": [

@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "com.toru.mononoke.mixin",
+  "package": "com.mononoke.mixin",
   "compatibilityLevel": "JAVA_16",
   "mixins": [
     "SoulDropMixin"
